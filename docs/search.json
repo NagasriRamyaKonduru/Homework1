@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "index.qmd",
+    "section": "",
+    "text": "1. What do you think being a data scientist is about?\nA data scientist is a scientist who makes discoveries in mounds and mounds of data and messy numbers.These discoveries can be forecasts, visualizations or just plain math.\n2. What differences/similarities do you see between data scientists and statisticians?\n-Data scientists use coding, ML concepts and data wrangling to make sense of the data and the models being used.\n-Statisticians essentially do all this without using coding.\n-You can be statistician without being a data scientist but it is pretty tough to be a data scientist without being a statistician.\n3. How do you view yourself in relation to these two areas?\nI see myself more of a data scientist, while I understand the underlying concepts I can only replicate them with the help of the system and handle the models properly only using coding."
+  },
+  {
+    "objectID": "index.html#first-part",
+    "href": "index.html#first-part",
+    "title": "index.qmd",
+    "section": "",
+    "text": "1. What do you think being a data scientist is about?\nA data scientist is a scientist who makes discoveries in mounds and mounds of data and messy numbers.These discoveries can be forecasts, visualizations or just plain math.\n2. What differences/similarities do you see between data scientists and statisticians?\n-Data scientists use coding, ML concepts and data wrangling to make sense of the data and the models being used.\n-Statisticians essentially do all this without using coding.\n-You can be statistician without being a data scientist but it is pretty tough to be a data scientist without being a statistician.\n3. How do you view yourself in relation to these two areas?\nI see myself more of a data scientist, while I understand the underlying concepts I can only replicate them with the help of the system and handle the models properly only using coding."
+  },
+  {
+    "objectID": "index.html#second-part",
+    "href": "index.html#second-part",
+    "title": "index.qmd",
+    "section": "Second Part",
+    "text": "Second Part\n\n\n[1] \"density\"\n\n\n[1] \"list\"\n\n\nList of 8\n $ x         : num [1:512] -0.656 -0.648 -0.64 -0.633 -0.625 ...\n $ y         : num [1:512] 0.00161 0.00178 0.00197 0.00217 0.00239 ...\n $ bw        : num 0.252\n $ n         : int 150\n $ old.coords: logi FALSE\n $ call      : language density.default(x = iris$Petal.Width)\n $ data.name : chr \"iris$Petal.Width\"\n $ has.na    : logi FALSE\n - attr(*, \"class\")= chr \"density\"\n\n\n\n\n\n\n\n\n\n```"
+  }
+]

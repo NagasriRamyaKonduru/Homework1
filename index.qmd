@@ -1,0 +1,44 @@
+---
+title: "index.qmd"
+format: html
+editor: visual
+---
+
+## First Part
+
+**1. What do you think being a data scientist is about?**
+
+A data scientist is a scientist who makes discoveries in mounds and mounds of data and messy numbers.These discoveries can be forecasts, visualizations or just plain math.
+
+**2. What differences/similarities do you see between data scientists and statisticians?**
+
+-Data scientists use coding, ML concepts and data wrangling to make sense of the data and the models being used.
+
+-Statisticians essentially do all this without using coding.
+
+-You can be statistician without being a data scientist but it is pretty tough to be a data scientist without being a statistician.
+
+**3. How do you view yourself in relation to these two areas?**
+
+I see myself more of a data scientist, while I understand the underlying concepts I can only replicate them with the help of the system and handle the models properly only using coding.
+
+## Second Part
+
+```{r echo=FALSE}
+# create y
+y <- density(iris$Petal.Width)
+
+# check the class
+class(y)
+
+# check the type of the object
+typeof(y)
+
+# check the structure
+str(y)
+
+# plot y, but hide the code
+plot(y)
+```
+
+\`\`\`
